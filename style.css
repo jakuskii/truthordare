@@ -1,0 +1,229 @@
+body {
+	background-color:#6416bd;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+
+.btn {
+	outline: none;
+	border: none;
+	border-radius: 50px;
+	cursor: pointer;
+	transition: all 0.3s;
+}
+.btn:hover {
+	transform: scale(1.08, 1.08);
+}
+
+.blur-bg {
+	opacity: 0.6;
+	background-color: #a8a8a8;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 10;
+	/* pointer-events: none; */
+}
+
+.popup {
+	position: absolute;
+	left: 25%;
+	top: 25%;
+	width: 50%;
+	height: auto;
+	background: rgba(203, 18, 209, 0.685);
+	border: 2px solid rgb(0, 0, 0);
+	border-radius: 12px;
+	padding: 20px;
+	text-align: center;
+	z-index: 100;
+	font-size: 1.1em;
+	color: rgb(0, 0, 0);
+	font-weight: bold;
+}
+
+.inp-name {
+	width: 50%;
+	border: 0;
+	border-bottom: 2px solid gray;
+	outline: 0;
+	font-size: 1.2rem;
+	background: transparent;
+	transition: border-color 0.2s ease;
+	color: rgb(24, 177, 224);
+}
+.inp-name:focus {
+	border-color: rgb(97, 114, 20);
+}
+
+.btn-start {
+	font-size: 1.4em;
+	display: block;
+	margin: 0 auto;
+	margin-top: 25px;
+	padding: 10px 20px;
+}
+.btn-start:hover {
+	background-color: rgb(205, 252, 118);
+}
+
+ul > li {
+	text-align: start;
+	margin-bottom: 5px;
+	font-size: 1.2em;
+	color: rgb(0, 55, 175);
+}
+
+.removePlr {
+	position: fixed;
+	left: 70%;
+}
+
+.btn-add {
+	position: absolute;
+	padding: 5px 15px;
+	font-size: 1.2em;
+	left: 75%;
+	top: 12%;
+	background: linear-gradient(to right, #e1eec3, #f05053);
+}
+.btn-add:hover {
+	background: linear-gradient(to left, #e1eec3, #f05053);
+}
+
+h1 {
+	font-size: 2.5em;
+	color: rgb(255, 255, 255);
+	text-align: center;
+	margin-bottom: 5%;
+}
+
+.container {
+	position: relative;
+}
+
+.btn-spin {
+	position: absolute;
+	top: 50%;
+	left: calc(50% - 17.5px);
+	transform: translate(-50%, -50%);
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	transition: all 0.3s ease;
+	font-size: 1.5em;
+}
+
+.btn-spin:hover {
+	max-width: 160px;
+	max-height: 160px;
+}
+
+.btn-dare,
+.btn-truth {
+	position: fixed;
+	top: 45%;
+	font-size: 1.4em;
+	padding: 10px 50px;
+}
+
+.btn-truth {
+	left: 38%;
+	background-color:#62bd2e;
+}
+.btn-truth:hover {
+	background: #5eff00;
+}
+
+.btn-dare {
+	left: 56%;
+	background-color:#f05053;
+}
+.btn-dare:hover {
+	background: #ff0000;
+}
+
+p {
+	margin-bottom: 80px;
+}
+
+.btn-done {
+	font-size: 1.2em;
+	padding: 10px 30px;
+
+}
+
+/*mobile*/
+@media (max-width: 480px) {
+
+	.container {
+		position: relative;
+		max-width:100%;
+		margin-top: 70px;
+	}
+	.wheel {
+	  max-width: 400px;
+	}
+	.btn-spin {
+		max-width: 120px;
+		max-height: 120px;
+	}
+
+	.btn-dare,
+.btn-truth {
+	position: fixed;
+	top: 45%;
+	font-size: 1.4em;
+	padding: 10px 50px;
+}
+
+.btn-truth {
+	left: 15%;
+	background-color:#15ff00;
+}
+
+
+.btn-dare {
+	left: 55%;
+	background-color:#ff0000;
+}
+.btn-add {
+	position: absolute;
+	padding: 5px 10px;
+	font-size: 1.2em;
+	left: 55%;
+	top: 15%;
+	background: linear-gradient(to right, #e1eec3, #f05053);
+}
+	
+  }
+
+
+
+
+
+
+/*tablet*/
+@media (max-width: 768px) {
+	
+		.container {
+			position: relative;
+		}
+	  
+  }
+
+/*laptop*/
+@media (max-width: 1024px) {
+	
+		.container {
+			position: relative;
+		}
+	  
+  }
+
+
