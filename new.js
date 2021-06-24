@@ -39,7 +39,6 @@ var spinTimeout;
 var anglePerSector = 0;
 var ctx;
 const canvas = document.querySelector(".wheel");
-
 addPlayers();
 drawWheel();
 
@@ -56,7 +55,7 @@ function addPlayers() {
 	// openPopup returns a destructor function
 	let closePopup = openPopup();
 	let popup = document.querySelector(".popup");
-	popup.appendChild(createEl("h2", "Add Players (At least 2)"));
+	popup.appendChild(createEl("h2", "Ajoute des joueurs (Au moins 2)"));
 
 	let plrList = document.createElement("ul", HTMLUListElement);
 	plrList.className = "playerList";
@@ -65,7 +64,7 @@ function addPlayers() {
 		plrList.innerHTML += listElement(player);
 	});
 
-	popup.appendChild(createEl("label", "Name: "));
+	popup.appendChild(createEl("label", "Pseudo: "));
 
 	let inp = document.createElement("input", HTMLInputElement);
 	inp.type = "text";
@@ -73,7 +72,7 @@ function addPlayers() {
 	popup.appendChild(inp);
 
 	let startBtn = document.createElement("button", HTMLButtonElement);
-	startBtn.innerText = "Start!";
+	startBtn.innerText = "Commencer!";
 	startBtn.className = "btn btn-start";
 	startBtn.onclick = closeAndDraw;
 	if (players.length < 2) {
@@ -106,7 +105,7 @@ function addPlayers() {
         </li>`;
 	}
 }
-Truth
+
 function tdPopup(person) {
 	spinBtn.disabled = false;
 	addBtn.disabled = false;
@@ -115,17 +114,17 @@ function tdPopup(person) {
 	let closePopup = openPopup();
 	let popup = document.querySelector(".popup");
 
-	popup.appendChild(createEl("h2", `${person}'s Turn`));
-	popup.appendChild(createEl("p", "Choose one:"));
+	popup.appendChild(createEl("h2", `Le tour de ${person} `));
+	popup.appendChild(createEl("p", "Choisit une:"));
 
 	let TruthBtn = document.createElement("button", HTMLButtonElement);
-	TruthBtn.innerText = "Truth!";
+	TruthBtn.innerText = "Vérité!";
 	TruthBtn.className = "btn btn-truth";
 	TruthBtn.onclick = showQues("Truth");
 	popup.appendChild(TruthBtn);
 
 	let DareBtn = document.createElement("button", HTMLButtonElement);
-	DareBtn.innerText = "Dare!";
+	DareBtn.innerText = "Action!";
 	DareBtn.className = "btn btn-dare";
 	DareBtn.onclick = showQues("Dare");
 	popup.appendChild(DareBtn);
@@ -207,7 +206,7 @@ function drawWheel() {
 	ctx.lineWidth = 3;
 
 	let l = players.length;
-	let wheelColors = ["#deda10", "#00d5ff", "#15ff00"];
+	let wheelColors = ["#ad1533", "#15ad8f	", "#e8a30e"];
 	anglePerSector = (2 * pi) / l;
 	let textRadius = 170;
 
@@ -267,9 +266,8 @@ function spin() {
 	elapsedSpinTime = 0;
 
 	// total spin time comes b/w 3sec to 5sec
-	totalSpinTime = Math.random() * 2000 + 3 * 1000;
-	rotateWheel();
-}
+	totalSpinTime = Math.random() * 2000 + 5* 1000;
+	rotateWheel();}
 
 // this function will run in loop till elapsedSpinTime exceeds total spin time
 function rotateWheel() {
