@@ -10,12 +10,10 @@ const truthQues = [
 	"Est-ce que tu regardes des films pornos ?",
 	"As-tu déjà embrassé une personne du même sexe ? ",
 	"Quel est le prénom de ton premier coup de cœur ?",
-	"Est-ce que tu as déjà été infidèle ?"
+	"Est-ce que tu as déjà été infidèle ?",
 	"Quel est ton plus grand fantasme ?",
-	"Quel est le plus gros mensonge que tu aies jamais dit à ton/ta partenaire ?"
-	
+	"Quel est le plus gros mensonge que tu aies jamais dit à ton/ta partenaire ?" ];
 
-];
 const dareQues = [
 	"Montre les 5 derniers messages que ta envoyer",
 	"Appelle ta mère en parlant avec une voix sexy.",
@@ -29,8 +27,7 @@ const dareQues = [
 	"Publie une story instagram avec une photo genante",
 	"Envoie un sms disant ‘Je t’aime” à 3 personnes.",
 	"Embrasse la personne à côté de toi.",
-	"Envoie un sms au dernier numéro que tu as appelé en disant  Quel est ton problème ?”.
-];
+	"Envoie un sms au dernier numéro que tu as appelé en disant  Quel est ton problème ?”.  ];
 var players = [];
 
 // declaring variables
