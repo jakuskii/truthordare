@@ -56,7 +56,7 @@ function addPlayers() {
 	// openPopup returns a destructor function
 	let closePopup = openPopup();
 	let popup = document.querySelector(".popup");
-	popup.appendChild(createEl("h2", "Add Players (Atleast 2)"));
+	popup.appendChild(createEl("h2", "Add Players (At least 2)"));
 
 	let plrList = document.createElement("ul", HTMLUListElement);
 	plrList.className = "playerList";
