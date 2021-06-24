@@ -6,7 +6,6 @@ const truthQues = [
 	"Tu t'es déjà masturbé ?",
 	"Y'a des trucs bizarres qui t'excitent ?",
 	"Nomme la fille ou le garçon le / la plus mignon/ne de ta classe",
-	"Tell us something you don’t want us to know.",
 	"As-tu déjà fait des photos nu(e) ? ",
 	"Est-ce que tu regardes des films pornos ?",
 	"As-tu déjà embrassé une personne du même sexe ? ",
@@ -112,9 +111,9 @@ function tdPopup(person) {
 	// openPopup returns a destructor function
 	let closePopup = openPopup();
 	let popup = document.querySelector(".popup");
-	
+
 	popup.appendChild(createEl("h2", `Le tour de ${person} `));
-	popup.appendChild(createEl("p", "Choisit un:"));
+	popup.appendChild(createEl("p", "Choisit une:"));
 
 	let TruthBtn = document.createElement("button", HTMLButtonElement);
 	TruthBtn.innerText = "Vérité!";
@@ -205,7 +204,7 @@ function drawWheel() {
 	ctx.lineWidth = 3;
 
 	let l = players.length;
-	let wheelColors = ["#FF9900", "#006666", "#990066"];
+	let wheelColors = ["#ad1533", "#15ad8f	", "#e8a30e"];
 	anglePerSector = (2 * pi) / l;
 	let textRadius = 170;
 
