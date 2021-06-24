@@ -7,7 +7,7 @@ const truthQues = [
 	"Y'a des trucs bizarres qui t'excitent ?",
 	"Nomme la fille ou le garçon le / la plus mignon/ne de ta classe",
 	"As-tu déjà fait des photos nu(e) ? ",
-	"Quel est le plus gros mensonge que tu aies jamais dit à ton/ta partenaire ?" 
+	"Quel est le plus gros mensonge que tu aies jamais dit à ton/ta partenaire ?" ,
 	"Est-ce que tu regardes des films pornos ?",
 	"As-tu déjà embrassé une personne du même sexe ? ",
 	"Quel est le prénom de ton premier coup de cœur ?",
