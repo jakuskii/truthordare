@@ -38,6 +38,7 @@ const truthQues = [
         "Quel est ton poids ?",
         "Décris la farce la plus drôle qu’on t’ait jamais faite.",
         "Quel était ton surnom pendant ton enfance ?",
+	"Est-ce que tu dors nu/e ?",
         
 ];
 const dareQues = [
