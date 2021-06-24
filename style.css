@@ -177,13 +177,13 @@ p {
 	.btn-dare,
 .btn-truth {
 	position: fixed;
-	top: 45%;
+	top: 50%;
 	font-size: 1.4em;
-	padding: 10px 50px;
+	padding: 10px 20px;
 }
 
 .btn-truth {
-	left: 15%;
+	left: 26%;
 	background-color:#15ff00;
 }
 
