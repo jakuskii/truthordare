@@ -144,8 +144,8 @@ function tdPopup(person) {
 	let closePopup = openPopup();
 	let popup = document.querySelector(".popup");
 
-	popup.appendChild(createEl("h2", `${person}'s Turn`));
-	popup.appendChild(createEl("p", "Choose one:"));
+	popup.appendChild(createEl("h2", `Le tour de ${person} `));
+	popup.appendChild(createEl("p", "Choisit un:"));
 
 	let TruthBtn = document.createElement("button", HTMLButtonElement);
 	TruthBtn.innerText = "Vérité!";
