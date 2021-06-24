@@ -1,17 +1,17 @@
 <div align="center">
 
-<h1><a href="https://wandering-sage.github.io/Truth-Dare/">Truth-Dare<a/></h1>
+<h1><a href="https://jakuskii.github.io/Truth-Dare/">Truth-Dare<a/></h1>
 
 <p>
   <strong>A website to play truth or dare with friends</strong>
   <br /><br />
-  Build from scratch with no dependency.
+
 </p>
 
 
 <p>
-  <sub>Made with ❤︎ by
-    <a href="https://github.com/wandering-sage">Shivam Kumar</a>
+  <sub>hi this is me
+    <a href="https://github.com/jakuskii">Jakuskii</a>
   </sub>
 </p>
 </div>
