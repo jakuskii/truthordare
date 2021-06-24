@@ -27,7 +27,9 @@ const dareQues = [
 	"Publie une story instagram avec une photo genante",
 	"Envoie un sms disant ‘Je t’aime” à 3 personnes.",
 	"Embrasse la personne à côté de toi.",
-	"Envoie un sms au dernier numéro que tu as appelé en disant  Quel est ton problème ?”.  ];
+	"Envoie un sms au dernier numéro que tu as appelé en disant  Quel est ton problème ?”
+
+];
 var players = [];
 
 // declaring variables
