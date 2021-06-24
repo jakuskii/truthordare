@@ -38,7 +38,6 @@ const truthQues = [
         "Quel est ton poids ?",
         "Décris la farce la plus drôle qu’on t’ait jamais faite.",
         "Quel était ton surnom pendant ton enfance ?",
-	"Est-ce que tu dors nu/e ?",
         
 ];
 const dareQues = [
@@ -69,6 +68,7 @@ var spinTimeout;
 var anglePerSector = 0;
 var ctx;
 const canvas = document.querySelector(".wheel");
+
 
 addPlayers();
 drawWheel();
@@ -146,7 +146,7 @@ function tdPopup(person) {
 	let popup = document.querySelector(".popup");
 
 	popup.appendChild(createEl("h2", `Le tour de ${person} `));
-	popup.appendChild(createEl("p", "Choisit un:"));
+	popup.appendChild(createEl("p", "Choisit une:"));
 
 	let TruthBtn = document.createElement("button", HTMLButtonElement);
 	TruthBtn.innerText = "Vérité!";
@@ -188,7 +188,7 @@ function tdPopup(person) {
 			);
 
 			let doneBtn = document.createElement("button", HTMLButtonElement);
-			doneBtn.innerText = "Fini";
+			doneBtn.innerText = "Done";
 			doneBtn.className = "btn btn-done";
 			doneBtn.onclick = closeIt;
 			popup.appendChild(doneBtn);
@@ -237,7 +237,7 @@ function drawWheel() {
 	ctx.lineWidth = 3;
 
 	let l = players.length;
-	let wheelColors = ["#FF9900", "#006666", "#990066"];
+	let wheelColors = ["#ad1533", "#15ad8f	", "#e8a30e"];
 	anglePerSector = (2 * pi) / l;
 	let textRadius = 170;
 
@@ -297,9 +297,8 @@ function spin() {
 	elapsedSpinTime = 0;
 
 	// total spin time comes b/w 3sec to 5sec
-	totalSpinTime = Math.random() * 2000 + 5 * 1000;
-	rotateWheel();
-}
+	totalSpinTime = Math.random() * 2000 + 5* 1000;
+	rotateWheel();}
 
 // this function will run in loop till elapsedSpinTime exceeds total spin time
 function rotateWheel() {
