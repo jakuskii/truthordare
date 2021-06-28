@@ -9,25 +9,32 @@ const truthQues = [
 	"As-tu déjà fait des photos nu(e) ? ",
 	"Quel est le plus gros mensonge que tu aies jamais dit à ton/ta partenaire ?" ,
 	"Est-ce que tu regardes des films pornos ?",
+	"Note chaque participant du jeux de 1 a 10 ou de ta classe",
 	"As-tu déjà embrassé une personne du même sexe ? ",
 	"Quel est le prénom de ton premier coup de cœur ?",
 	"Est-ce que tu as déjà été infidèle ?",
 	"Quel est ton plus grand fantasme ?",
+	"Quelle est ton crush en ce moment?"
+	"Si tu devais sortir avec quelqu’un ici, ca serait qui ?",
+	"Quelle est la personne que tu deteste le plus?",
+	
+	
 ];
 
 const dareQues = [
-	"Montre les 5 derniers messages que ta envoyer",
+	"Montre tes 5 dernieres discussion ",
 	"Appelle ta mère en parlant avec une voix sexy.",
 	" Envoie un message coquin à la dernière personne à qui tu as parlé par message !",
 	"Choisis un vêtement et enlève-le !",
 	"Donne ton telephone a une personne du jeux et laisse la ecrire un message",
 	"Filme toi quand tu danse et met la video sur TikTok",
-	"Mélange du sucre et du poivre noir et mange ce mélange.",
+	"Embrasse sur la joue quelqu’un de ce groupe",
 	"Mets une vidéo porno et regarder la.",
 	"Embrasse n’importe quelle personne de ton groupe d’amis",
 	"Publie une story instagram avec une photo genante",
 	"Envoie un sms disant ‘Je t’aime” à 3 personnes.",
 	"Embrasse la personne à côté de toi.",
+	"Laisse une personne du jeux poster un statut story..sur un reseaux",
 	"Envoie un sms au dernier numéro que tu as appelé en disant  Quel est ton problème ?",
 
 ];
