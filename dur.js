@@ -14,8 +14,8 @@ const truthQues = [
 	"Quel est le prénom de ton premier coup de cœur ?",
 	"Est-ce que tu as déjà été infidèle ?",
 	"Quel est ton plus grand fantasme ?",
-	"Quelle est ton crush en ce moment?"
-	"Si tu devais sortir avec quelqu’un ici, ca serait qui ?",
+	"Quelle est ton crush en ce moment?",
+	"Si tu devais sortir avec quelqu’un ici ca serait qui ?",
 	"Quelle est la personne que tu deteste le plus?",
 	
 	
