@@ -53,6 +53,7 @@ const dareQues = [
 	"Seduce a member of the same gender in the group.",
 	"Fais un compliment à chacun des joueurs !   ",
 	"Laisse le joueur de ton choix te dessiner quelque chose sur le visage !",
+	"Mélange du sucre et du poivre noir et mange ce mélange.",
 ];
 var players = [];
 
