@@ -8,22 +8,26 @@ const truthQues = [
 	"Nomme la fille ou le garçon le / la plus mignon/ne de ta classe",
 	"As-tu déjà fait des photos nu(e) ? ",
 	"Quel est le plus gros mensonge que tu aies jamais dit à ton/ta partenaire ?" ,
-	"Est-ce que tu regardes des films pornos ?",
+	"Est-ce que tu regardes des pornos ?",
 	"Note chaque participant du jeux de 1 a 10 ou de ta classe",
 	"As-tu déjà embrassé une personne du même sexe ? ",
 	"Quel est le prénom de ton premier coup de cœur ?",
 	"Est-ce que tu as déjà été infidèle ?",
-	"Quel est ton plus grand fantasme ?",
+	"Quel est ton plus grand fantasme sexuel?",
 	"Quelle est ton crush en ce moment?",
 	"Si tu devais sortir avec quelqu’un ici ca serait qui ?",
 	"Quelle est la personne que tu deteste le plus?",
-	
+	"Voudrais-tu avoir des relations sexuelles avec une personne de ce groupe ?",
+	"Qui, parmi les personnes de ce groupe, a le plus beau corps ?",
+	"Quelle est ta position sexuelle préférée ?",
+	" T'aimes les pieds ?",
+		
 	
 ];
 
 const dareQues = [
 	"Montre tes 5 dernieres discussion ",
-	"Appelle ta mère en parlant avec une voix sexy.",
+	"Appele a mère en parlant avec une voix sexy.",
 	" Envoie un message coquin à la dernière personne à qui tu as parlé par message !",
 	"Choisis un vêtement et enlève-le !",
 	"Donne ton telephone a une personne du jeux et laisse la ecrire un message",
@@ -35,7 +39,11 @@ const dareQues = [
 	"Envoie un sms disant ‘Je t’aime” à 3 personnes.",
 	"Embrasse la personne à côté de toi.",
 	"Laisse une personne du jeux poster un statut story..sur un reseaux",
+	"Va chez une personne que tu connais pas et demande lui si elle veut etre en couple avec vous",
 	"Envoie un sms au dernier numéro que tu as appelé en disant  Quel est ton problème ?",
+	" Reste assis(e) sur les genoux d’un des joueurs de ton choix jusqua ton prochain tour!",
+	
+
 
 ];
 var players = [];
@@ -148,13 +156,13 @@ function tdPopup(person) {
 	function showQues(type) {
 		return function ret() {
 			closePopup();
-			// openPopup returns a destructor function
 			let closeIt = openPopup();
 			let popup = document.querySelector(".popup");
 
 			popup.appendChild(createEl("h2", `${type}`));
 
-			// checks which ques to put in the current popup
+				// openPopup returns a destructor function
+		// checks which ques to put in the current popup
 			popup.appendChild(
 				createEl(
 					"p",
