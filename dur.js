@@ -40,6 +40,7 @@ const dareQues = [
 	"Donne ton telephone a une personne du jeux et laisse la ecrire un message",
 	"Filme toi quand tu danse et met la video sur TikTok",
 	"Embrasse sur la joue quelqu’un de ce groupe",
+	"case un je taime",
 	"Mets une vidéo porno et regarder la.",
 	"Mets une bite sur le cahier d'une meuf/mec de ta classe",
 	"Publie une story instagram avec une photo genante",
