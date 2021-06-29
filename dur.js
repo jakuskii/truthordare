@@ -19,7 +19,8 @@ const truthQues = [
 	"Si tu devais faire un plan a 3 quelle  personne tu choisirais pour le faire? ",
 	"Si tu devais sortir avec quelqu’un ici ca serait qui ?",
 	"Quelle est la personne que tu deteste le plus?",
-	"Voudrais-tu avoir des relations sexuelles avec une personne de ce groupe ?",
+	
+	"Voudrais-tu avoir des relations sexuelles avec une personne de ta classe ou se groupe ?",
 	"Qui, parmi les personnes de ce groupe, a le plus beau corps ?",
 	"Quelle est ta position sexuelle préférée ?",
 	"Par devant ou par derriere avec une inconnue",
@@ -33,7 +34,7 @@ const truthQues = [
 
 const dareQues = [
 	"Montre tes 5 dernieres discussion ",
-	"Appele a mère en parlant avec une voix sexy.",
+	"Appele  la personne de ton choix  en parlant avec une voix sexy.",
 	" Envoie un message coquin à la dernière personne à qui tu as parlé par message !",
 	"Choisis un vêtement et enlève-le !",
 	"Donne ton telephone a une personne du jeux et laisse la ecrire un message",
@@ -43,10 +44,9 @@ const dareQues = [
 	"Mets une bite sur le cahier d'une meuf/mec de ta classe",
 	"Publie une story instagram avec une photo genante",
 	"Envoie un sms disant ‘Je t’aime” à 3 personnes.",
-	"Embrasse la personne à côté de toi.",
 	"Laisse une personne du jeux poster un statut story..sur un reseaux",
-	"Va chez une personne que tu connais pas et demande lui si elle veut etre en couple avec vous",
-	"Envoie un sms au dernier numéro que tu as appelé en disant  Quel est ton problème ?",
+	"Va chez une personne que tu connais pas et d emande lui si elle veut etre en couple avec vous",
+	"Envoie un sms au dernier numéro que tu as appelé en disant  va te faire foutre?",
 	" Reste assis(e) sur les genoux d’un des joueurs de ton choix jusqua ton prochain tour!",
 	
 
