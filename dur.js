@@ -48,7 +48,7 @@ const dareQues = [
 	"Fait une photo avec louise",
 	"repond a un fuck mary kill que les autres joueur vont te poser",
 	"Envoie un message disant ‘Je t’aime” à 3 personnes les autre participant choisise a qui.",
-	"Laisse une personne du jeux poster un statut story..sur un reseaux",
+	"Laisse une personne du jeux poster un statut ou story ou un sur un autre reseau",
 	"Reste assis(e) sur les genoux d’un des joueurs de ton choix jusqua ton prochain tour!",
 	
 	
