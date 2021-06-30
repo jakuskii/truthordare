@@ -27,31 +27,28 @@ const truthQues = [
 	"Quelle est ta position sexuelle préférée ?",
 	"Par devant ou par derriere avec une inconnue",
 	"La taille de ta bite ou la taille qui te satisfait",
-        "repond a un fuck mary kill que les autres joueur vont te poser",
 	"Actrisse /acteur p.... preferee",
-	" T'aimes les pieds ?",
+	
 		
 	
 ];
 
 const dareQues = [
-	"Montre tes 5 dernieres discussion ",
+	"Montre tes 5 dernieres discussion (si ta pas ton tel tu montre apres)",
 	"Appele  la personne de ton choix  en parlant avec une voix sexy.",
-	" Envoie un message coquin à la dernière personne à qui tu as parlé par message !",
+	"Envoie un message coquin à la dernière personne à qui tu as parlé par message !",
 	"Choisis un vêtement et enlève-le !",
 	"Donne ton telephone a une personne du jeux et laisse la ecrire un message",
-	"Filme toi quand tu danse et met la video sur TikTok ou skip ",
+	"Filme toi quand tu danse et met la video sur TikTok ou skip  ",
 	"Embrasse sur la joue quelqu’un de ce groupe",
-	"case un je taime en classe",
+	"case un je taime et un nom dun fille ou mec de ta classe  en classe",
 	"Quelqun peut te  poser une question et tu dois repondre",
-	"3 personne te pose une question et tu repond",
 	"Mets une vidéo porno et regarder la.",
-	"dessine une bite sur le cahier d'une meuf/mec de ta classe",
+	"dessine une bite ou qqch dautre sur le cahier d'une meuf/mec de ta classe",
 	"Fait une photo avec louise",
-	"Envoie un sms disant ‘Je t’aime” à 3 personnes.",
+	"repond a un fuck mary kill que les autres joueur vont te poser",
+	"Envoie un message disant ‘Je t’aime” à 3 personnes les autre participant choisise a qui.",
 	"Laisse une personne du jeux poster un statut story..sur un reseaux",
-	"Va chez une personne que tu connais pas et d emande lui si elle veut etre en couple avec vous",
-	"Envoie un sms au dernier numéro que tu as appelé en disant  va te faire foutre?",
 	"Reste assis(e) sur les genoux d’un des joueurs de ton choix jusqua ton prochain tour!",
 	
 	
