@@ -18,7 +18,7 @@ const truthQues = [
 	"Sodomie ou félation?",
 	"Si tu devais faire un plan a 3 quelle  personne tu choisirais pour le faire? ",
 	"Si tu devais sortir avec quelqu’un ici ca serait qui ?",
-	"Quelle est la personne que tu deteste le plus?",
+	"Quelle est la personne que tu deteste le plus ici ou dans ta classe?",
 	"La levrette ou le missionnaire ?",
 	"Arrêter de faire l'amour pendant un an ou arrêter de te masturber pendant un an ?",
 	"Branler un pote et personne ne le sait ou ne pas le faire et que tout le monde pense que tu l'as fait ?",
