@@ -26,10 +26,9 @@ const truthQues = [
 	"Qui, parmi les personnes de ce groupe, a le plus beau corps ?",
 	"Quelle est ta position sexuelle préférée ?",
 	"Par devant ou par derriere avec une inconnue",
-	"Canabis ou wid",
+	"La taille de ta bite ou la taille qui te satisfait",
         "repond a un fuck mary kill que les autres joueur vont te poser",
 	"Actrisse /acteur ... preferee",
-	"Gars ou meuf",
 	" T'aimes les pieds ?",
 		
 	
@@ -44,6 +43,7 @@ const dareQues = [
 	"Filme toi quand tu danse et met la video sur TikTok ou skip ",
 	"Embrasse sur la joue quelqu’un de ce groupe",
 	"case un je taime en classe",
+	"Quelqun peut te  poser une question et tu dois repondre",
 	"Mets une vidéo porno et regarder la.",
 	"dessine une bite sur le cahier d'une meuf/mec de ta classe",
 	"Publie une story instagram avec une photo genante ",
@@ -53,6 +53,7 @@ const dareQues = [
 	"Va chez une personne que tu connais pas et d emande lui si elle veut etre en couple avec vous",
 	"Envoie un sms au dernier numéro que tu as appelé en disant  va te faire foutre?",
 	" Reste assis(e) sur les genoux d’un des joueurs de ton choix jusqua ton prochain tour!",
+	
 	
 
 
