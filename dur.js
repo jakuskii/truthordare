@@ -28,7 +28,7 @@ const truthQues = [
 	"Par devant ou par derriere avec une inconnue",
 	"La taille de ta bite ou la taille qui te satisfait",
         "repond a un fuck mary kill que les autres joueur vont te poser",
-	"Actrisse /acteur ... preferee",
+	"Actrisse /acteur p.... preferee",
 	" T'aimes les pieds ?",
 		
 	
@@ -44,15 +44,15 @@ const dareQues = [
 	"Embrasse sur la joue quelqu’un de ce groupe",
 	"case un je taime en classe",
 	"Quelqun peut te  poser une question et tu dois repondre",
+	"3 personne te pose une question et tu repond",
 	"Mets une vidéo porno et regarder la.",
 	"dessine une bite sur le cahier d'une meuf/mec de ta classe",
-	"Publie une story instagram avec une photo genante ",
 	"Fait une photo avec louise",
 	"Envoie un sms disant ‘Je t’aime” à 3 personnes.",
 	"Laisse une personne du jeux poster un statut story..sur un reseaux",
 	"Va chez une personne que tu connais pas et d emande lui si elle veut etre en couple avec vous",
 	"Envoie un sms au dernier numéro que tu as appelé en disant  va te faire foutre?",
-	" Reste assis(e) sur les genoux d’un des joueurs de ton choix jusqua ton prochain tour!",
+	"Reste assis(e) sur les genoux d’un des joueurs de ton choix jusqua ton prochain tour!",
 	
 	
 
