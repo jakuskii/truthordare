@@ -27,6 +27,7 @@ const truthQues = [
 	"Quelle est ta position sexuelle préférée ?",
 	"Par devant ou par derriere avec une inconnue",
 	"Canabis ou wid",
+        "repond a un fuck mary kill que les autres joueur vont te poser",
 	"Actrisse /acteur ... preferee",
 	"Gars ou meuf",
 	" T'aimes les pieds ?",
