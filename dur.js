@@ -36,8 +36,7 @@ const truthQues = [
 
 const dareQues = [
 	"Montre tes 5 dernieres discussion (si t'as pas ton tel, tu montre plus tard)",
-	"Embrasse sur la joue quelqu’un de ce groupe du sexe oposer",
-	"Appele la personne  que les autre jouer vont choisir en parlant avec une voix sexy.",
+	"Embrasse sur la joue quelqu’un de ce groupe du sexe opose",
 	"Envoie un message coquin à la dernière personne à qui tu as parlé par message ",
 	"Choisis un vêtement et enlève-le ",
 	"Reste assis(e) sur les genoux si tes un mec tu choisit quelle fille et pour une fille tu choisis le gars jusqu'a ton prochain tour",
@@ -305,7 +304,7 @@ function spin() {
 	elapsedSpinTime = 0;
     
 	// total spin time comes b/w 3sec to 5sec
-	totalSpinTime = Math.random() * 2069 + 5*getRndInteger2(800,1700);
+	totalSpinTime = Math.random() * 2069*5*1000;
 	rotateWheel();}
 
 // this function will run in loop till elapsedSpinTime exceeds total spin time
