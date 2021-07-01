@@ -310,7 +310,7 @@ function spin() {
 
 // this function will run in loop till elapsedSpinTime exceeds total spin time
 function rotateWheel() {
-	elapsedSpinTime +=  getRndInteger2(7,12);
+	elapsedSpinTime += 10;
 	if (elapsedSpinTime >= totalSpinTime) {
 		stopWheelAndGetPlayer();
 		return;
