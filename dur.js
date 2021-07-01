@@ -9,6 +9,8 @@ const truthQues = [
 	"As-tu déjà fait des photos nu(e) ? ",
 	"Quel est le plus gros mensonge que tu aies jamais dit à ton/ta partenaire ?" ,
 	"Est-ce que tu regardes des pornos ?",
+        "La taille de ta bite (pas au repo) si tes un mec  ou la taille qui te satisfait pour fille",
+	"Actrisse /acteur p.... preferee", ,
 	"Si la partenaire te convient, tu accepterais de faire un porno et de le publier sur un site connu ?",
 	"Note chaque participant du jeux de 1 a 10 ou de ta classe",
 	"As-tu déjà embrassé une personne du sexe oposer ? ",
@@ -30,7 +32,6 @@ const truthQues = [
 	"La taille de ta bite (pas au repo) si tes un mec  ou la taille qui te satisfait pour fille",
 	"Actrisse /acteur p.... preferee",
 	"Dans ce groupe, qui amènerais-tu avec toi sur une île déserte ?",
-	"As-tu déjà envoyé une photo coquine par portable ?",	
 	"Est-ce que tu pourrais coucher avec quelqu'un pour beaucoup d'argent ?",
 ];
 
