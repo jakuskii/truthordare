@@ -49,7 +49,6 @@ const dareQues = [
 	"Fait une photo avec une personne qui est dans le groupe joueur qu'ils ont choisis et envoie leur",
 	"repond a un fuck mary kill que les autres joueur vont te poser",
 	"Envoie un message disant ‘Je t’aime” à 2 personnes les autre participant choisise a qui.",
-	"Laisse une personne du jeux poster un statut ou story ",
 	"Appelez au hasard une personne de votre téléphone et dis lui se que les autre gens choisissent.",
 	"Dessine une bite ou qqch dautre sur le cahier d'une meuf/mec de ton groupe d'amis",
 	"Filme toi quand tu danse et met la video sur TikTok ou skip   ",
