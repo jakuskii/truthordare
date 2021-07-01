@@ -31,31 +31,29 @@ const truthQues = [
 	"Actrisse /acteur p.... preferee",
 	"Dans ce groupe, qui amènerais-tu avec toi sur une île déserte ?",
 	"As-tu déjà envoyé une photo coquine par portable ?",	
-	"As-tu déjà embrassé plusieurs personnes le même jour ? Si oui, combien ?",
 	"Est-ce que tu pourrais coucher avec quelqu'un pour beaucoup d'argent ?",
 ];
 
 const dareQues = [
 	"Montre tes 5 dernieres discussion (si t'as pas ton tel, tu montre plus tard)",
+	"Embrasse sur la joue quelqu’un de ce groupe du sexe oposer",
 	"Appele la personne  que les autre jouer vont choisir en parlant avec une voix sexy.",
 	"Envoie un message coquin à la dernière personne à qui tu as parlé par message ",
 	"Choisis un vêtement et enlève-le ",
+	"Reste assis(e) sur les genoux si tes un mec tu choiosit quelle fille et pour une fille tu choisis le gars jusqu'a ton prochain tour",
 	"Donne ton telephone a une personne du jeux et laisse la ecrire un message",
-	"Filme toi quand tu danse et met la video sur TikTok ou skip   ",
 	"Embrasse sur la joue quelqu’un de ce groupe du sexe oposer",
 	"Case un je taime et un nom dun fille ou mec parmis ton entourage pendant le travail ",
 	"Quelqun peut te poser une question et tu dois répondre",
-	"Mets une vidéo porno et regarder la.",
-	"Dessine une bite ou qqch dautre sur le cahier d'une meuf/mec de ton groupe d'amis",
+	"Mets une vidéo porno et regarder la.",	
 	"Fait une photo avec une personne qui est dans le groupe joueur qu'ils ont choisis et envoie leur",
 	"repond a un fuck mary kill que les autres joueur vont te poser",
 	"Envoie un message disant ‘Je t’aime” à 2 personnes les autre participant choisise a qui.",
 	"Laisse une personne du jeux poster un statut ou story ",
-	"Reste assis(e) sur les genoux si tes un mec tu choiosit quelle fille et pour une fille tu choisis le gars",
 	"Appelez au hasard une personne de votre téléphone et dis lui se que les autre gens choisissent.",
-        "Embrasse sur la joue quelqu’un de ce groupe du sexe oposer",
 	"Capturez une image de l’historique de votre navigateur et envoyez-la à une personne aléatoire de vos contacts.",
-	
+	"Dessine une bite ou qqch dautre sur le cahier d'une meuf/mec de ton groupe d'amis",
+	"Filme toi quand tu danse et met la video sur TikTok ou skip   ",
 
 
 ];
