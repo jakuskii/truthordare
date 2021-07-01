@@ -27,7 +27,7 @@ const truthQues = [
 	"Qui, parmi les personnes de ce groupe, a le plus beau corps ?",
 	"Quelle est ta position sexuelle préférée ?",
 	"Par devant ou par derriere avec une inconnue",
-	"La taille de ta bite ou la taille qui te satisfait",
+	"La taille de ta bite si tes un mec  ou la taille qui te satisfait pour fille",
 	"Actrisse /acteur p.... preferee",
 	"Dans ce groupe, qui amènerais-tu avec toi sur une île déserte ?",
 	"As-tu déjà envoyé une photo coquine par portable ?",	
