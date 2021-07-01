@@ -301,11 +301,11 @@ function spin() {
 	addBtn.disabled = true;
 
 	// spin speed is in degrees
-	spinSpeed = Math.random() * 10 + getRndInteger(8,14);
+	spinSpeed = Math.random() * 10 + 10;
 	elapsedSpinTime = 0;
     
 	// total spin time comes b/w 3sec to 5sec
-	totalSpinTime = Math.random() * getRndInteger(1500,2500) + 5*getRndInteger2(800,1700);
+	totalSpinTime = Math.random() * 2069 + 5*getRndInteger2(800,1700);
 	rotateWheel();}
 
 // this function will run in loop till elapsedSpinTime exceeds total spin time
