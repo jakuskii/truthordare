@@ -9,6 +9,7 @@ const truthQues = [
 	"As-tu déjà fait des photos nu(e) ? ",
 	"Quel est le plus gros mensonge que tu aies jamais dit à ton/ta partenaire ?" ,
 	"Est-ce que tu regardes des pornos ?",
+	"Si la partenaire te convient, tu accepterais de faire un porno et de le publier sur un site connu ?",
 	"Note chaque participant du jeux de 1 a 10 ou de ta classe",
 	"As-tu déjà embrassé une personne du sexe oposer ? ",
 	"Quel est le prénom de ton premier coup de cœur ?",
@@ -16,9 +17,10 @@ const truthQues = [
 	"Quel est ton plus grand fantasme sexuel?",
 	"Quelle est ton crush en ce moment?",
 	"Sodomie ou félation?",
-	"Si tu devais faire un plan a 3 quelle  personne tu choisirais pour le faire? ",
-	"Si tu devais sortir avec quelqu’un ici ca serait qui ?",
-	"Quelle est la personne que tu deteste le plus ici ou dans ta classe?",
+	"Si tu devais faire un plan a 3, quelle  personne tu choisirais pour le faire? ",
+	"Si tu devais sortir avec quelqu’un ici ce serait qui ?",
+	"pisser de la lave ou chier des oursins ?",
+	"Quelle est la personne que tu deteste le plus ici ou dans ton entourage ?",
 	"La levrette ou le missionnaire ?",
 	"Arrêter de faire l'amour pendant un an ou arrêter de te masturber pendant un an ?",
 	"Branler un pote et personne ne le sait ou ne pas le faire et que tout le monde pense que tu l'as fait ?",
@@ -28,30 +30,33 @@ const truthQues = [
 	"Par devant ou par derriere avec une inconnue",
 	"La taille de ta bite ou la taille qui te satisfait",
 	"Actrisse /acteur p.... preferee",
-	
-		
-	
+	"Dans ce groupe, qui amènerais-tu avec toi sur une île déserte ?",
+	"As-tu déjà envoyé une photo coquine par portable ?",	
+	"As-tu déjà embrassé plusieurs personnes le même jour ? Si oui, combien ?",
+	"Est-ce que tu pourrais coucher avec quelqu'un pour beaucoup d'argent ?",
 ];
 
 const dareQues = [
-	"Montre tes 5 dernieres discussion (si ta pas ton tel tu montre apres)",
-	"Appele  la personne de ton choix  en parlant avec une voix sexy.",
-	"Envoie un message coquin à la dernière personne à qui tu as parlé par message !",
-	"Choisis un vêtement et enlève-le !",
+	"Montre tes 5 dernieres discussion (si t'as pas ton tel, tu montre plus tard)",
+	"Appele  la personne de ton choix (sauf copain/copine) en parlant avec une voix sexy.",
+	"Envoie un message coquin à la dernière personne à qui tu as parlé par message ",
+	"Choisis un vêtement et enlève-le ",
 	"Donne ton telephone a une personne du jeux et laisse la ecrire un message",
-	"Filme toi quand tu danse et met la video sur TikTok ou skip  ",
+	"Filme toi quand tu danse et met la video sur TikTok ou un autre réseau   ",
 	"Embrasse sur la joue quelqu’un de ce groupe",
-	"case un je taime et un nom dun fille ou mec de ta classe  en classe",
-	"Quelqun peut te  poser une question et tu dois repondre",
+	"Case un je taime et un nom dun fille ou mec parmis ton entourage pendant le travail ",
+	"Quelqun peut te  poser une question et tu dois répondre",
 	"Mets une vidéo porno et regarder la.",
-	"dessine une bite ou qqch dautre sur le cahier d'une meuf/mec de ta classe",
-	"Fait une photo avec louise",
+	"dessine une bite ou qqch dautre sur le cahier d'une meuf/mec de ton groupe d'amis",
+	"Fait une photo avec une photo qui est dans le groupe joueur qu'ils ont choisis et envoie leur",
 	"repond a un fuck mary kill que les autres joueur vont te poser",
 	"Envoie un message disant ‘Je t’aime” à 3 personnes les autre participant choisise a qui.",
 	"Laisse une personne du jeux poster un statut ou story ou un sur un autre reseau",
 	"Reste assis(e) sur les genoux d’un des joueurs de ton choix jusqua ton prochain tour!",
-	
-	
+	"Appelez au hasard une personne de votre téléphone et chantez-lui une chanson.",
+	"Appelez une pizzeria et commander de la nourriture chinoise.",
+	"Capturez une image de l’historique de votre navigateur et envoyez-la à une personne aléatoire de vos contacts.",
+	"pousse un cri de satisfaction",
 
 
 ];
