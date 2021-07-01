@@ -301,7 +301,7 @@ function spin() {
 	addBtn.disabled = true;
 
 	// spin speed is in degrees
-	spinSpeed = Math.random() * 10 + 10;
+	spinSpeed = Math.random() * 10 + getRndInteger(8,20);
 	elapsedSpinTime = 0;
     
 	// total spin time comes b/w 3sec to 5sec
