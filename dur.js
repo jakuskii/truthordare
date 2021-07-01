@@ -40,7 +40,7 @@ const dareQues = [
 	"Appele la personne  que les autre jouer vont choisir en parlant avec une voix sexy.",
 	"Envoie un message coquin à la dernière personne à qui tu as parlé par message ",
 	"Choisis un vêtement et enlève-le ",
-	"Reste assis(e) sur les genoux si tes un mec tu choiosit quelle fille et pour une fille tu choisis le gars jusqu'a ton prochain tour",
+	"Reste assis(e) sur les genoux si tes un mec tu choisit quelle fille et pour une fille tu choisis le gars jusqu'a ton prochain tour",
 	"Donne ton telephone a une personne du jeux et laisse la ecrire un message",
 	"Embrasse sur la joue quelqu’un de ce groupe du sexe oposer",
 	"Case un je taime et un nom dun fille ou mec parmis ton entourage pendant le travail ",
