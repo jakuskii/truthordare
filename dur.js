@@ -27,7 +27,7 @@ const truthQues = [
 	"Qui, parmi les personnes de ce groupe, a le plus beau corps ?",
 	"Quelle est ta position sexuelle préférée ?",
 	"Par devant ou par derriere avec une inconnue",
-	"La taille de ta bite si tes un mec  ou la taille qui te satisfait pour fille",
+	"La taille de ta bite (pas au repo) si tes un mec  ou la taille qui te satisfait pour fille",
 	"Actrisse /acteur p.... preferee",
 	"Dans ce groupe, qui amènerais-tu avec toi sur une île déserte ?",
 	"As-tu déjà envoyé une photo coquine par portable ?",	
@@ -51,7 +51,6 @@ const dareQues = [
 	"Envoie un message disant ‘Je t’aime” à 2 personnes les autre participant choisise a qui.",
 	"Laisse une personne du jeux poster un statut ou story ",
 	"Appelez au hasard une personne de votre téléphone et dis lui se que les autre gens choisissent.",
-	"Capturez une image de l’historique de votre navigateur et envoyez-la à une personne aléatoire de vos contacts.",
 	"Dessine une bite ou qqch dautre sur le cahier d'une meuf/mec de ton groupe d'amis",
 	"Filme toi quand tu danse et met la video sur TikTok ou skip   ",
 
