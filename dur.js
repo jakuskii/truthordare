@@ -305,7 +305,7 @@ function spin() {
 	elapsedSpinTime = 0;
     
 	// total spin time comes b/w 3sec to 5sec
-	totalSpinTime = Math.random() * getRndInteger(1500,2500) + 5;
+	totalSpinTime = Math.random() * getRndInteger(1500,2500) + 5*getRndInteger2(800,2000);
 	rotateWheel();}
 
 // this function will run in loop till elapsedSpinTime exceeds total spin time
