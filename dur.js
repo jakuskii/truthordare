@@ -37,7 +37,7 @@ const truthQues = [
 
 const dareQues = [
 	"Montre tes 5 dernieres discussion (si t'as pas ton tel, tu montre plus tard)",
-	"Appele la personne de ton choix en parlant avec une voix sexy.",
+	"Appele la personne  que les autre jouer vont choisir en parlant avec une voix sexy.",
 	"Envoie un message coquin à la dernière personne à qui tu as parlé par message ",
 	"Choisis un vêtement et enlève-le ",
 	"Donne ton telephone a une personne du jeux et laisse la ecrire un message",
