@@ -3,7 +3,24 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 	text-align: center;
 }
-
+#btruth
+{
+	
+		padding: 5px 15px;
+		font-size: 1.2em;
+		
+		background: linear-gradient(to right, #36cc43, #20fa03);
+	
+}
+#bdare
+{
+	
+		padding: 5px 15px;
+		font-size: 1.2em;
+		
+		background: linear-gradient(to right, #a01a09, #ee080c);
+	
+}
 .btn {
 	outline: none;
 	border: none;
@@ -225,5 +242,3 @@ p {
 		}
 	  
   }
-
-
