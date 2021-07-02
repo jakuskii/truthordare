@@ -6,20 +6,30 @@ body {
 #btruth
 {
 	
-		padding: 5px 15px;
+		padding: 5px 20px;
 		font-size: 1.2em;
-		
-		background: linear-gradient(to right, #36cc43, #20fa03);
+		border-radius: 3px;
+		background: linear-gradient(to right, #36cc43, #2bb319);
 	
 }
 #bdare
 {
 	
-		padding: 5px 15px;
+		padding: 5px 20px;
 		font-size: 1.2em;
-		
-		background: linear-gradient(to right, #a01a09, #ee080c);
+		border-radius: 3px;
+		background: linear-gradient(to right, #a01a09, #e4181b);
 	
+}
+#bdare:hover{
+	background: linear-gradient(to right, #c9250f, #ff0004);
+	padding: 7px 25px;
+
+}
+#btruth:hover{
+	background: linear-gradient(to right, #10c219, #00ff15);
+	padding: 7px 25px;
+
 }
 .btn {
 	outline: none;
