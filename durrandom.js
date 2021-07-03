@@ -54,7 +54,7 @@ const dareQues = [
 	"Envoie un message disant ‘Je t’aime” à 2 personnes les autre participant choisise a qui.",
 	"Appelez au hasard une personne de votre téléphone et dis lui se que les autre gens choisissent.",
 	"Dessine une bite ou qqch dautre sur le cahier d'une meuf/mec de ton groupe d'amis",
-	"Embrasse dans le cou la personne de ton choix",
+	"Embrasse sur le cou la personne de ton choix",
 	"Filme toi quand tu danse et met la video sur TikTok ou skip   ",
 
 
