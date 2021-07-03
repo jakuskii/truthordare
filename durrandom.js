@@ -55,9 +55,7 @@ const dareQues = [
 
 
 ];
-function getRndInteger(min, max) {
-	return Math.floor(Math.random() * (max - min + 1) ) + min;
-  }
+
 
 function showdare() 
 {
@@ -69,9 +67,18 @@ textbox = document.getElementById("truth").innerHTML = dareQues[Math.floor(Math.
 
 function showtruth() 
 {
+	
 
 textbox = document.getElementById("dare").innerHTML = truthQues[Math.floor(Math.random() * truthQues.length)];
 
 
    }
+
+   function showboth() 
+{
+
+textbox = document.getElementById("truth").innerHTML = dareQues[Math.floor(Math.random() * dareQues.length)];
+textbox = document.getElementById("dare").innerHTML = truthQues[Math.floor(Math.random() * truthQues.length)];
+
+}
        
