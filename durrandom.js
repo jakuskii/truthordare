@@ -4,7 +4,6 @@ const truthQues = [
 	"Tu as déjà vu des gens en train de faire des trucs ?",
 	"Avec quelle célébrité aimerais-tu passer une nuit endiablée ?",
 	"Tu t'es déjà masturbé ?",
-	"Y'a des trucs bizarres qui t'excitent ?",
 	"Nomme la fille ou le garçon le / la plus mignon/ne de ta classe",
 	"As-tu déjà fait des photos nu(e) ? ",
 	"Quel est le plus gros mensonge que tu aies jamais dit à ton/ta partenaire ?" ,
@@ -32,6 +31,10 @@ const truthQues = [
 	"Dans ce groupe, qui amènerais-tu avec toi sur une île déserte ?",
 	"As-tu déjà envoyé une photo coquine par portable ?",	
 	"Est-ce que tu pourrais coucher avec quelqu'un pour beaucoup d'argent ?",
+	"Quel est ton site porno préféré ?",
+	"Y'a des trucs bizarres qui t'excitent ?",
+
+
 ];
 
 const dareQues = [
@@ -51,7 +54,9 @@ const dareQues = [
 	"Envoie un message disant ‘Je t’aime” à 2 personnes les autre participant choisise a qui.",
 	"Appelez au hasard une personne de votre téléphone et dis lui se que les autre gens choisissent.",
 	"Dessine une bite ou qqch dautre sur le cahier d'une meuf/mec de ton groupe d'amis",
+	"Embrasse dans le cou la personne de ton choix",
 	"Filme toi quand tu danse et met la video sur TikTok ou skip   ",
+
 
 
 ];
