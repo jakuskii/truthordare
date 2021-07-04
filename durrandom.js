@@ -17,6 +17,7 @@ const truthQues = [
 	"Quelle est ton crush en ce moment?",
 	"Sodomie ou félation?",
 	"Si tu devais faire un plan a 3, quelle  personne tu choisirais pour le faire? ",
+	"Si tu devais faire un plan a 3, quelle  personne tu choisirais pour le faire? ",
 	"Si tu devais sortir avec quelqu’un ici ce serait qui ?",
 	"Quelle est la personne que tu deteste le plus ici ou dans ton entourage ?",
 	"La levrette ou le missionnaire ?",
