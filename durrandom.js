@@ -22,7 +22,6 @@ const truthQues = [
 	"Quelle est la personne que tu deteste le plus ici ou dans ton entourage ?",
 	"La levrette ou le missionnaire ?",
 	"Arrêter de faire l'amour pendant un an ou arrêter de te masturber pendant un an ?",
-	"Branler un pote et personne ne le sait ou ne pas le faire et que tout le monde pense que tu l'as fait ?",
 	"Voudrais-tu avoir des relations sexuelles avec une personne de ta classe ou se groupe ?",
 	"Qui, parmi les personnes de ce groupe, a le plus beau corps ?",
 	"Quelle est ta position sexuelle préférée ?",
