@@ -8,6 +8,7 @@ const truthQues = [
 	"As-tu déjà fait des photos nu(e) ? ",
 	"Quel est le plus gros mensonge que tu aies jamais dit à ton/ta partenaire ?" ,
 	"Est-ce que tu regardes des pornos ?",
+        "Ou aimerais tu faire l'amour et donne un détail que t'aimerai bien",
 	"Si la partenaire te convient, tu accepterais de faire un porno et de le publier sur un site connu ?",
 	"Note chaque participant du jeux de 1 a 10 ou de ta classe",
 	"As-tu déjà embrassé une personne du sexe oposer ? ",
