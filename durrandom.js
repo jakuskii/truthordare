@@ -50,7 +50,6 @@ const dareQues = [
 	"Case un je taime et un nom dun fille ou mec parmis ton entourage pendant le travail ",
 	"Quelqun peut te poser une question et tu dois répondre",
 	"Mets une vidéo porno et regarder la.",
-	"Met une claque au cul d'une fille/si tes une fille chooisit quelle garcon te la met",
 	"Fait une photo avec une personne qui est dans le groupe joueur qu'ils ont choisis et envoie leur",
 	"repond a un fuck mary kill que les autres joueur vont te poser",
 	"Fait tagada ou prend toi une nouvelle action",
