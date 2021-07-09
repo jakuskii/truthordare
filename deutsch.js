@@ -26,7 +26,7 @@ const truthQues = [
     "Mit wem würdest du am liebsten auf einer einsamen Insel sein (Gruppe)?",
     "Hast du schon ein Schwanzbild verschickt?",
     "Könntest du mit einer Person aus der Gruppe für viel Geld Sex haben?",
-    "Was ist deine liblings Pornoseite?"
+    "Was ist deine liblings Pornoseite?",
     "Hast du schon einmal eine Person des gleichen Geschlechts geküsst?",
     "Welchen Star findest du hot?",
     "Was ist das Letzte, wonach du gegoogelt hast?",
