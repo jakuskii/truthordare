@@ -150,7 +150,7 @@ function tdPopup(person) {
 	let popup = document.querySelector(".popup");
 
 	popup.appendChild(createEl("h2", `Du bist drann: ${person} `));
-	popup.appendChild(createEl("p", "Wähle::"));
+	popup.appendChild(createEl("p", "Wähle:"));
 
 	let TruthBtn = document.createElement("button", HTMLButtonElement);
 	TruthBtn.innerText = "Warheit!";
