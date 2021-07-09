@@ -90,7 +90,7 @@ function addPlayers() {
 	// openPopup returns a destructor function
 	let closePopup = openPopup();
 	let popup = document.querySelector(".popup");
-	popup.appendChild(createEl("h2", "Ajoute des joueurs (Au moins 2)"));
+	popup.appendChild(createEl("h2", "Spieler hinzufügen min. 2");
 
 	let plrList = document.createElement("ul", HTMLUListElement);
 	plrList.className = "playerList";
@@ -149,17 +149,17 @@ function tdPopup(person) {
 	let closePopup = openPopup();
 	let popup = document.querySelector(".popup");
 
-	popup.appendChild(createEl("h2", `Le tour de ${person} `));
-	popup.appendChild(createEl("p", "Choisit une:"));
+	popup.appendChild(createEl("h2", `Du bist drann: ${person} `));
+	popup.appendChild(createEl("p", "Wähle::"));
 
 	let TruthBtn = document.createElement("button", HTMLButtonElement);
-	TruthBtn.innerText = "Vérité!";
+	TruthBtn.innerText = "Warheit!";
 	TruthBtn.className = "btn btn-truth";
 	TruthBtn.onclick = showQues("Truth");
 	popup.appendChild(TruthBtn);
 
 	let DareBtn = document.createElement("button", HTMLButtonElement);
-	DareBtn.innerText = "Action!";
+	DareBtn.innerText = "Pflicht!";
 	DareBtn.className = "btn btn-dare";
 	DareBtn.onclick = showQues("Dare");
 	popup.appendChild(DareBtn);
