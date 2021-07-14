@@ -20,6 +20,7 @@ const truthQues = [
     "Würdest du Sex mit einer Person aus dieser Klasse oder Gruppe haben wollen?",
     "Wer hat den hottesten Körper (aus der Gruppe)?",
     "Was ist deine liblings Sexstellung?",
+    "Sag die 3 letzten Leute auf die du standest",
     "Von forne oder von hinten?",
     "Schwanzgröße oder Talliengröße",
     "Wer ist dein liblings Pornostaar?",
